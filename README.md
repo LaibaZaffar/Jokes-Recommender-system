@@ -1,5 +1,5 @@
 ## Overview
-This repository contains a Jokes Recommender System that utilizes user ratings of jokes to recommend personalized jokes to users based on similarity scores. This project is implemented in Python and uses libraries like numpy,pandas and etc...
+This repository contains a Jokes Recommender System that utilizes user ratings of jokes to recommend jokes to users based on similarity scores. This project is implemented in Python and uses libraries like numpy,pandas and etc...
 ## Dataset Information
 The Jokes Recommender System leverages the Jester Dataset 3, which consists of user ratings for jokes. Below is a detailed description of the dataset:
 
